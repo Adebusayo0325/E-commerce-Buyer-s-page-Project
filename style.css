@@ -2022,11 +2022,12 @@ font-size: 1.1rem;
 .container{
  width: 90%;
 }
+
 .large-carousel{
     margin-bottom: 1.5rem;
     min-height: 9vh ;
-    width: 400px;
-    height: 45vh;
+    width: 450px;
+    height: 500px;
 }
 .btn-prev{
     top: 40%;
@@ -2037,9 +2038,9 @@ font-size: 1.1rem;
     right:-4%;
 }
 .small-carousel{
-    min-height: 10vh ;
-    width: 400px;
-    height: 7vh;
+    min-height: 7vh ;
+    width: 450px;
+    height: 100px;
 }
 
 /*DEFAULT IMAGE*/
@@ -2048,7 +2049,7 @@ font-size: 1.1rem;
     margin: 0 auto 0 3.5rem;
     min-height: 10vh ;
     width: 320px;
-    height: 35vh;
+    height: 350px;
 }
 .large-btn{
     height: 100%;
@@ -2058,7 +2059,7 @@ font-size: 1.1rem;
     min-height: 5vh ;
     margin-top: 1.5rem;
     width: 320px;
-    height: 7vh;
+    height: 75px;
 }
 .text{
 margin: 4.5rem auto 0 auto;
