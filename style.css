@@ -2038,7 +2038,7 @@ font-size: 1.1rem;
     right:-4%;
 }
 .small-carousel{
-    min-height: 7vh ;
+    min-height: 5vh ;
     width: 450px;
     height: 100px;
 }
@@ -2056,10 +2056,10 @@ font-size: 1.1rem;
 }
 .small-carousel-btn{
     margin: 0 auto 0 3.5rem;
-    min-height: 5vh ;
+    min-height: 3vh ;
     margin-top: 1.5rem;
     width: 320px;
-    height: 75px;
+    height: 70px;
 }
 .text{
 margin: 4.5rem auto 0 auto;
@@ -2086,12 +2086,12 @@ margin: 4.5rem auto 0 auto;
 .bottom{
     width: 90%;
     margin-top: 1rem;
-    height: 4vh;
+    height: 2vh;
 }
 .number{
     width: 50%;
  display: flex;
- height: 4vh;
+ height: 2vh;
   justify-content: flex-start;
     align-items: center;
   overflow: hidden;
@@ -2118,7 +2118,7 @@ margin: 4.5rem auto 0 auto;
 }
 #display{
     margin: -0.1rem;
-    max-height: 5.5vh;
+    max-height: 3.5vh;
 }
 }
 
