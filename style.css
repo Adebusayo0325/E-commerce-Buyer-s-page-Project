@@ -2118,7 +2118,7 @@ margin: 4.5rem auto 0 auto;
 }
 #display{
     margin: -0.1rem;
-    max-height: 3.5vh;
+    max-height: 5.5vh;
 }
 }
 
@@ -2163,7 +2163,7 @@ nav{
      margin-right: calc(1.5rem - 1vw);
 }
 .cart-items{
-    top: 9%;
+    top: 7%;
     right: 3%;
     max-width: 30%;
     width: 400px;
